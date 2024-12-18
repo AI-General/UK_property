@@ -1,0 +1,6 @@
+requests
+pandas
+playwright
+rich
+httpx
+aiohttp
